@@ -8,6 +8,10 @@ public class SqlDmlJoinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SqlDmlJoinsApplication.class, args);
+
+
 	}
+
+
 
 }
